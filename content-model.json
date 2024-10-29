@@ -4,6 +4,25 @@
       "id": 1730236543854,
       "title": "",
       "description": "",
+      "specializations": [
+        {
+          "id": 1730236578763,
+          "title": "things",
+          "description": "thtuirehrig",
+          "projects": []
+        },
+        {
+          "id": 1730236583054,
+          "title": "wegewg",
+          "description": "aiefhewiughw9eugh",
+          "projects": []
+        }
+      ]
+    },
+    {
+      "id": 1730236577264,
+      "title": "",
+      "description": "",
       "specializations": []
     }
   ]
